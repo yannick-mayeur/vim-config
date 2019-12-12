@@ -40,3 +40,18 @@
 [submodule "bundle/coc.vim"]
 	path = bundle/coc.vim
 	url = https://github.com/neoclide/coc.nvim
+[submodule "bundle/vim-signature"]
+	path = bundle/vim-signature
+	url = https://github.com/kshenoy/vim-signature
+[submodule "bundle/fzf.vim"]
+	path = bundle/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "bundle/lightline.vim"]
+	path = bundle/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/vim-color-forest-night"]
+	path = bundle/vim-color-forest-night
+	url = https://github.com/sainnhe/vim-color-forest-night
+[submodule "bundle/vim-eunuch"]
+	path = bundle/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch
