@@ -13,12 +13,6 @@
 [submodule "bundle/vim-ragtag"]
 	path = bundle/vim-ragtag
 	url = https://github.com/tpope/vim-ragtag.git
-[submodule "bundle/command-t"]
-	path = bundle/command-t
-	url = https://github.com/wincent/command-t.git
-[submodule "bundle/vim-polyglot"]
-	path = bundle/vim-polyglot
-	url = http://github.com/sheerun/vim-polyglot
 [submodule "bundle/nova-vim"]
 	path = bundle/nova-vim
 	url = http://github.com/trevordmiller/nova-vim
@@ -28,15 +22,6 @@
 [submodule "bundle/vim-javascript"]
 	path = bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
-[submodule "bundle/coc-vim"]
-	path = bundle/coc-vim
-	url = https://github.com/neoclide/coc.nvim.git
-[submodule "bundle/coc.nvim"]
-	path = bundle/coc.nvim
-	url = https://github.com/neoclide/coc.nvim.git
-[submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/coc.vim"]
 	path = bundle/coc.vim
 	url = https://github.com/neoclide/coc.nvim
