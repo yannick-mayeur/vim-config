@@ -61,7 +61,7 @@ set winwidth=180
 " fail.
 set winheight=10
 set winminheight=10
-set winheight=999
+set winheight=50
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
