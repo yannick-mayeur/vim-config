@@ -20,6 +20,7 @@ let g:lightline = {'colorscheme' : 'forest_night'}
 set background=dark
 set t_Co=256
 
+" Persistent undo
 set undofile
 set undodir=~/.vim/undodir
 
