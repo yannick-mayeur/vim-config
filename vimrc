@@ -39,6 +39,9 @@ set mouse=a
 " Yanking goes into the system clipboard "+
 nnoremap <leader>p "+p
 nnoremap <leader>y "+y
+xnoremap <leader>p "+p
+xnoremap <leader>y "+y
+
 nnoremap <leader>cv :split ~/.vimrc<cr>
 nnoremap <leader>cl :source %<cr>
 
@@ -108,8 +111,8 @@ set wildignore+=*.bmp,*.gif,*.ico,*.jpg,*.png,*.ico
 " RAILS SPECIFIC CONFIGURATION
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-map <leader>gr :topleft :split config/routes.rb<cr>
-map <leader>gg :topleft 100 :split Gemfile<cr>
+" map <leader>gr :topleft :split config/routes.rb<cr>
+" map <leader>gg :topleft 100 :split Gemfile<cr>
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
