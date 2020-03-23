@@ -9,6 +9,8 @@ filetype plugin indent on
 " BASIC EDITING CONFIGURATION
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+set rtp+=/usr/local/opt/fzf
+
 " Set colorscheme to nova
 " colorscheme nova
 set termguicolors
