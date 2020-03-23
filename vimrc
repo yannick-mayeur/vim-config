@@ -42,6 +42,9 @@ nnoremap <leader>y "+y
 nnoremap <leader>cv :split ~/.vimrc<cr>
 nnoremap <leader>cl :source %<cr>
 
+" Map kj to <Esc>
+inoremap kj <Esc>l
+
 " Spell langs
 nnoremap <F7> :set spelllang=fr<cr>
 nnoremap <F8> :set spelllang=en<cr>
