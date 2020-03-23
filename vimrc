@@ -30,8 +30,8 @@ let mapleader=" "
 " Enables lines numbers
 set number
 
-" Max textwidth is 79
-set tw=79
+" Max textwidth is 80
+set tw=80
 
 " Mouse does not select numbers
 set mouse=a
