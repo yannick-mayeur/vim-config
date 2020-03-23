@@ -1,3 +1,3 @@
 " Language: Latex
 
-set makeprg=pdflatex\ %
+set makeprg=xelatex\ %
