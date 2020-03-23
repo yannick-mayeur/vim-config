@@ -37,8 +37,8 @@ set tw=80
 set mouse=a
 
 " Yanking goes into the system clipboard "+
-map <leader>p "+p
-map <leader>y "+y
+nnoremap <leader>p "+p
+nnoremap <leader>y "+y
 nnoremap <leader>cv :split ~/.vimrc<cr>
 nnoremap <leader>cl :source %<cr>
 
