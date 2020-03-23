@@ -97,8 +97,8 @@ map <leader>vs :vsplit %%
 nnoremap <leader><leader> <c-^>
 "
 " Fuzzy search (wildmenu for multiple finds)
-map <leader>t :GFiles<CR>
-nnoremap <leader>f :Files<CR>
+nnoremap <leader>t :GFiles<CR>
+nnoremap <leader>r :Rg<CR>
 
 set wildmenu
 set wildignore+=*.bmp,*.gif,*.ico,*.jpg,*.png,*.ico
