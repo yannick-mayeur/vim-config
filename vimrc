@@ -18,7 +18,7 @@ colorscheme forest-night
 let g:lightline = {'colorscheme' : 'forest_night'}
 
 set background=dark
-" set t_Co=256
+set t_Co=256
 
 set undofile
 set undodir=~/.vim/undodir
